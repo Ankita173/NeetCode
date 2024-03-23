@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3753a9af-9f55-4b9c-ba8b-78fcfe5e2249" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/datastructure/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/datastructure/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/LargestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/MostVisitedTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/PFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/PrintSpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/StringSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/epam/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/google/PixelDensity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/linkedin/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/visa/CombinationWithFirstSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/binarysearch/MatrixBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/binarysearch/RotatedArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/binarysearch/TimeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/binarysearch/TwoSortedArrayMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/LLHasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/MergeKSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/MergedSortedLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/RemoveLastNElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/ReprderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/linkedlist/SumList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/priorityqueue/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/tree/CreateBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/tree/InvertBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/FindPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/FindPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/ListBAsic.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/ListBAsic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/MapTrickQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/MapTrickQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/PermutationWithDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/PermutationWithDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/StringPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/StringPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/ThreadBAsics.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/ThreadBAsics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/ThreadsCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/ThreadsCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/UnitsBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/UnitsBoxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/VowelsPresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/basic/VowelsPresent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/interview/FindSubArraySumToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/FindSubArraySumToTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/basic/interview/SumNumberToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/interview/SumNumberToTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/ContainDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/ContainDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/GroupAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/LongConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/LongConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/ProductArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/ProductArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/TopKFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/TopKFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/array/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/array/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/slidingwindow/FindPermutedSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/slidingwindow/FindPermutedSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/slidingwindow/LongestSimilarSubstringReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/slidingwindow/LongestSimilarSubstringReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/slidingwindow/LongestSubstringWithoutRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/slidingwindow/LongestSubstringWithoutRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/slidingwindow/MinimunWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/slidingwindow/MinimunWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/slidingwindow/SlidingWindowMaximun.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/slidingwindow/SlidingWindowMaximun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/CarFleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/CarFleet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/ImplementStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/ImplementStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/MaxAreaHistogra.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/MaxAreaHistogra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/ReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/ReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/stack/ValidateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/stack/ValidateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/twopointers/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/twopointers/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/twopointers/RainWaterTrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/twopointers/RainWaterTrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/twopointers/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/twopointers/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/neetcode/twopointers/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/practice/neetcode/twopointers/ValidPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VWiLopgOLkbIsOUhHVm1Pl1aa8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Application.math">
+    <configuration name="Arcesium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samples.Arcesium" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementTries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.neetcode.tries.ImplementTries" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.neetcode.tries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.neetcode.priorityqueue.KthElement" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.neetcode.priorityqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartitionSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.neetcode.backtracking.PartitionSubstring" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.neetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.neetcode.tries.WordDictionary" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.neetcode.tries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.neetcode.math" />
+      <module name="Switch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.neetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.math" />
+        <item itemvalue="Application.WordDictionary" />
+        <item itemvalue="Application.ImplementTries" />
+        <item itemvalue="Application.KthElement" />
+        <item itemvalue="Application.PartitionSubstring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3753a9af-9f55-4b9c-ba8b-78fcfe5e2249" name="Default Changelist" comment="" />
+      <created>1694958183808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694958183808</updated>
+      <workItem from="1694958184959" duration="81000" />
+      <workItem from="1694958281111" duration="16467000" />
+      <workItem from="1700395234113" duration="3000" />
+      <workItem from="1700395255827" duration="9779000" />
+      <workItem from="1700457127851" duration="9055000" />
+      <workItem from="1706894750498" duration="4522000" />
+      <workItem from="1707068537594" duration="4459000" />
+      <workItem from="1707190891794" duration="1072000" />
+      <workItem from="1707201967636" duration="27000" />
+      <workItem from="1707202033913" duration="2638000" />
+      <workItem from="1707823260895" duration="1303000" />
+      <workItem from="1708342204133" duration="741000" />
+      <workItem from="1708514616009" duration="4160000" />
+      <workItem from="1709178232188" duration="16848000" />
+      <workItem from="1709608616372" duration="2552000" />
+      <workItem from="1709809845287" duration="7250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="129" key="#xdebugger.evaluate" timestamp="1709964761788">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state x="483" y="129" key="#xdebugger.evaluate/0.25.1440.785@0.25.1440.785" timestamp="1709964761788" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom" timestamp="1709968268077">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.25.1440.785@0.25.1440.785" timestamp="1709968268077" />
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1709613930776" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center" timestamp="1709968268076">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.25.1440.785@0.25.1440.785" timestamp="1709968268076" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1709613930773" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left" timestamp="1709968268076">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.25.1440.785@0.25.1440.785" timestamp="1709968268076" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1709613930773" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right" timestamp="1709968268076">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.25.1440.785@0.25.1440.785" timestamp="1709968268076" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1709613930775" />
+    <state width="1398" height="167" key="GridCell.Tab.1.bottom" timestamp="1709968268072">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="167" key="GridCell.Tab.1.bottom/0.25.1440.785@0.25.1440.785" timestamp="1709968268072" />
+    <state width="1398" height="167" key="GridCell.Tab.1.bottom/0.25.1440.791@0.25.1440.791" timestamp="1709609214134" />
+    <state width="1398" height="167" key="GridCell.Tab.1.center" timestamp="1709968268071">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="167" key="GridCell.Tab.1.center/0.25.1440.785@0.25.1440.785" timestamp="1709968268071" />
+    <state width="1398" height="167" key="GridCell.Tab.1.center/0.25.1440.791@0.25.1440.791" timestamp="1709609214133" />
+    <state width="1398" height="167" key="GridCell.Tab.1.left" timestamp="1709968268071">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="167" key="GridCell.Tab.1.left/0.25.1440.785@0.25.1440.785" timestamp="1709968268071" />
+    <state width="1398" height="167" key="GridCell.Tab.1.left/0.25.1440.791@0.25.1440.791" timestamp="1709609214133" />
+    <state width="1398" height="167" key="GridCell.Tab.1.right" timestamp="1709968268072">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state width="1398" height="167" key="GridCell.Tab.1.right/0.25.1440.785@0.25.1440.785" timestamp="1709968268072" />
+    <state width="1398" height="167" key="GridCell.Tab.1.right/0.25.1440.791@0.25.1440.791" timestamp="1709609214134" />
+    <state x="258" y="157" width="924" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1709964685438">
+      <screen x="0" y="25" width="1440" height="785" />
+    </state>
+    <state x="258" y="157" width="924" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.785@0.25.1440.785" timestamp="1709964685438" />
+    <state x="166" y="77" key="new project wizard" timestamp="1707202399745">
+      <screen x="0" y="25" width="1440" height="788" />
+    </state>
+    <state x="166" y="77" key="new project wizard/0.25.1440.788@0.25.1440.788" timestamp="1707202399745" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/neetcode/stack/CarFleet.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/neetcode/binarysearch/BinarySearch.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/neetcode/binarysearch/MatrixBinarySearch.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/neetcode/array/LongConsecutiveSequence.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/neetcode/binarysearch/RotatedArraySearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/interview/MostVisitedTrack.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/interview/MostVisitedTrack.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/interview/NumArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/interview/LargestTime.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/basic/GarbageCollection.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/backtracking/CombinationSum2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/backtracking/CombinationSum2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/backtracking/PartitionSubstring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/priorityqueue/KthElement.java</url>
+          <line>19</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/priorityqueue/KthElement.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/tries/ImplementTries.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/practice/neetcode/tries/WordDictionary.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="39" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
